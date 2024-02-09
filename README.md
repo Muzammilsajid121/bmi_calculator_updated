@@ -1,4 +1,4 @@
-# Currency Converter App       <img src="projectphotos/logo.png" alt="BMI Calculator App Logo" width="40" height="40">
+# Flutter Currency Converter App       <img src="projectphotos/logo.png" alt="BMI Calculator App Logo" width="40" height="40">
 
 
 
