@@ -67,7 +67,7 @@ final width = MediaQuery.sizeOf(context).width *1;
 
      SizedBox(height: MediaQuery.of(context).size.height*0.04,),
 Center(child: Text('BMI CACLCULATOR APP',style: Theme.of(context).textTheme.titleMedium)),
-Center(child: Text('By Muzammil',style: Theme.of(context).textTheme.bodyMedium)),
+// Center(child: Text('By Muzammil',style: Theme.of(context).textTheme.bodyMedium)),
 
 
           ],
